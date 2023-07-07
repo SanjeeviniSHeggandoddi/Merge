@@ -1,6 +1,6 @@
+two
 <<<<<<< HEAD
-twice
-this is master
+this is branch one
 =======
 this is branch two
->>>>>>> branch1
+>>>>>>> branch2
