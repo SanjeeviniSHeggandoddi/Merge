@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-one
-This branch1
-=======
 two
-this is branch2
+<<<<<<< HEAD
+this is branch one
+=======
+this is branch two
 >>>>>>> branch2
